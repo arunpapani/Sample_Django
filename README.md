@@ -73,3 +73,25 @@ DATABASES = {
         },
     }
 }
+
+
+
+#  HOW TO START THE PROJECT
+
+1> Clone it
+git clone https://github.com/arunpapani/Sample_Django.git
+
+2>Activate virtuval Environment
+source /home/arun/Documents/sample_django/Sample_Django/Django_Proj_Env/bin/activate
+3>Run The server
+python migarte runserver
+4>Run The urls in browser
+http://127.0.0.1:8000/blog/
+
+
+
+
+
+
+
+
